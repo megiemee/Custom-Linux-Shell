@@ -1,4 +1,4 @@
-# Custom-Linux-Shell
+# Custom-Shell
 A custom shell coded with C for use in Unix-based systems designed to provide an interface for executing system programs.
 
 ## Directory Structure
